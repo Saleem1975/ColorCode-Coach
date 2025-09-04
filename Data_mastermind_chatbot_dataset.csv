@@ -1,0 +1,1999 @@
+query,intent
+I want to play again please,restart_game
+Begin a new round,restart_game
+Give me tips to play better please,game_strategy
+Bye please,quit_game
+Goodbye please,quit_game
+What is a black peg please,feedback_meaning
+Explain the black and white pegs please,feedback_meaning
+Are repeated colors allowed please,color_repeat
+How do i win,winning_condition
+How do you win mastermind please,winning_condition
+What is a white peg please,feedback_meaning
+Let's go again,restart_game
+Explain how winning works,winning_condition
+"Thanks, i’m done",quit_game
+Can i repeat colors in my guess,color_repeat
+What is the goal,winning_condition
+Are repeated colors allowed,color_repeat
+Bye please,quit_game
+Is color repetition allowed,color_repeat
+What’s a smart way to guess please,game_strategy
+Are repeated colors allowed,color_repeat
+Begin a new round,restart_game
+Help me play smarter,game_strategy
+How do you win mastermind,winning_condition
+What does the feedback mean,feedback_meaning
+Give me tips to play better please,game_strategy
+Restart the game please,restart_game
+Explain the black and white pegs please,feedback_meaning
+What does the feedback mean,feedback_meaning
+What is the goal please,winning_condition
+Quit game,quit_game
+What do i need to do to win,winning_condition
+Goodbye please,quit_game
+Can i repeat colors in my guess please,color_repeat
+How do you win mastermind please,winning_condition
+Goodbye,quit_game
+Explain how winning works,winning_condition
+How do you win mastermind,winning_condition
+Explain how winning works,winning_condition
+I want to play again please,restart_game
+How do i win,winning_condition
+Explain how winning works,winning_condition
+Explain the black and white pegs,feedback_meaning
+How do i win please,winning_condition
+Goodbye please,quit_game
+Are repeated colors allowed please,color_repeat
+What’s the best strategy,game_strategy
+Explain how winning works,winning_condition
+What’s the best strategy,game_strategy
+How do you win mastermind,winning_condition
+What is a black peg please,feedback_meaning
+How many times can i use the same color please,color_repeat
+What is the goal,winning_condition
+Quit game please,quit_game
+Start a new game,restart_game
+I want to play again please,restart_game
+Start a new game please,restart_game
+Are repeated colors allowed please,color_repeat
+Start a new game please,restart_game
+How do i reduce the number of guesses,game_strategy
+How do i reduce the number of guesses,game_strategy
+Restart the game,restart_game
+Explain the black and white pegs,feedback_meaning
+What’s the best strategy,game_strategy
+Are repeated colors allowed,color_repeat
+What does the feedback mean,feedback_meaning
+Give me tips to play better please,game_strategy
+Can two positions have the same color please,color_repeat
+What does the feedback mean,feedback_meaning
+Begin a new round please,restart_game
+I want to play again,restart_game
+Help me play smarter please,game_strategy
+How do i understand the feedback please,feedback_meaning
+Can two positions have the same color please,color_repeat
+Can i repeat colors in my guess,color_repeat
+What is a white peg,feedback_meaning
+Quit game,quit_game
+Are repeated colors allowed please,color_repeat
+Can i repeat colors in my guess,color_repeat
+Give me tips to play better please,game_strategy
+Begin a new round,restart_game
+What does the feedback mean please,feedback_meaning
+Is color repetition allowed,color_repeat
+I want to play again please,restart_game
+How do you win mastermind please,winning_condition
+What is a black peg,feedback_meaning
+Can two positions have the same color,color_repeat
+Explain the black and white pegs please,feedback_meaning
+Help me play smarter please,game_strategy
+Explain how winning works please,winning_condition
+How do you win mastermind please,winning_condition
+Explain how winning works please,winning_condition
+Can i repeat colors in my guess,color_repeat
+How do i understand the feedback,feedback_meaning
+Is color repetition allowed please,color_repeat
+What is a black peg please,feedback_meaning
+What’s the best strategy please,game_strategy
+Start a new game please,restart_game
+Bye please,quit_game
+Can i repeat colors in my guess please,color_repeat
+What’s a smart way to guess,game_strategy
+What do i need to do to win please,winning_condition
+Are repeated colors allowed,color_repeat
+Explain the black and white pegs please,feedback_meaning
+Are repeated colors allowed,color_repeat
+How do i win please,winning_condition
+How do you win mastermind,winning_condition
+Exit please,quit_game
+I want to play again,restart_game
+How do i reduce the number of guesses please,game_strategy
+What does the feedback mean,feedback_meaning
+Help me play smarter,game_strategy
+What is a black peg,feedback_meaning
+What is a white peg,feedback_meaning
+How do i reduce the number of guesses please,game_strategy
+Explain how winning works please,winning_condition
+What is a white peg please,feedback_meaning
+How do i win,winning_condition
+Let's go again,restart_game
+Explain how winning works please,winning_condition
+Are repeated colors allowed please,color_repeat
+Give me tips to play better please,game_strategy
+What’s a smart way to guess,game_strategy
+Give me tips to play better,game_strategy
+Quit game please,quit_game
+Is color repetition allowed,color_repeat
+What does the feedback mean,feedback_meaning
+How do you win mastermind,winning_condition
+Exit please,quit_game
+What is a black peg please,feedback_meaning
+How do i reduce the number of guesses please,game_strategy
+Can two positions have the same color please,color_repeat
+Is color repetition allowed please,color_repeat
+Quit game,quit_game
+How do i reduce the number of guesses,game_strategy
+What is a black peg please,feedback_meaning
+What do i need to do to win please,winning_condition
+Explain the black and white pegs please,feedback_meaning
+Quit game,quit_game
+How many times can i use the same color,color_repeat
+"Thanks, i’m done please",quit_game
+Explain the black and white pegs please,feedback_meaning
+Is color repetition allowed,color_repeat
+What’s the best strategy please,game_strategy
+How do i understand the feedback please,feedback_meaning
+Are repeated colors allowed,color_repeat
+Can two positions have the same color,color_repeat
+How many times can i use the same color,color_repeat
+What’s the best strategy,game_strategy
+Give me tips to play better,game_strategy
+"Thanks, i’m done",quit_game
+Explain how winning works,winning_condition
+What is a black peg please,feedback_meaning
+Help me play smarter,game_strategy
+How do i understand the feedback please,feedback_meaning
+Restart the game please,restart_game
+What is a white peg,feedback_meaning
+Explain the black and white pegs,feedback_meaning
+How do i understand the feedback,feedback_meaning
+How many times can i use the same color please,color_repeat
+How do i understand the feedback please,feedback_meaning
+Explain how winning works please,winning_condition
+How many times can i use the same color,color_repeat
+"Thanks, i’m done please",quit_game
+What does the feedback mean,feedback_meaning
+Help me play smarter,game_strategy
+Let's go again,restart_game
+Exit,quit_game
+Restart the game please,restart_game
+Let's go again,restart_game
+What does the feedback mean,feedback_meaning
+Give me tips to play better,game_strategy
+Give me tips to play better,game_strategy
+I want to play again,restart_game
+Are repeated colors allowed,color_repeat
+How do you win mastermind,winning_condition
+What is a black peg please,feedback_meaning
+Explain the black and white pegs,feedback_meaning
+Give me tips to play better,game_strategy
+Explain how winning works,winning_condition
+Can i repeat colors in my guess,color_repeat
+What is the goal please,winning_condition
+Are repeated colors allowed please,color_repeat
+How do i win,winning_condition
+Goodbye please,quit_game
+What is the goal,winning_condition
+How do you win mastermind please,winning_condition
+Can two positions have the same color,color_repeat
+Help me play smarter please,game_strategy
+Are repeated colors allowed please,color_repeat
+What’s a smart way to guess,game_strategy
+I want to play again,restart_game
+How do you win mastermind,winning_condition
+Is color repetition allowed,color_repeat
+Help me play smarter please,game_strategy
+Is color repetition allowed,color_repeat
+Start a new game,restart_game
+Give me tips to play better please,game_strategy
+How many times can i use the same color,color_repeat
+How do i understand the feedback please,feedback_meaning
+Help me play smarter please,game_strategy
+Quit game,quit_game
+Are repeated colors allowed,color_repeat
+Exit,quit_game
+Help me play smarter,game_strategy
+Help me play smarter please,game_strategy
+Restart the game please,restart_game
+I want to play again please,restart_game
+I want to play again please,restart_game
+Start a new game,restart_game
+Help me play smarter,game_strategy
+What does the feedback mean,feedback_meaning
+What’s the best strategy,game_strategy
+What is a white peg please,feedback_meaning
+How do i win,winning_condition
+Quit game please,quit_game
+Start a new game please,restart_game
+What is a white peg,feedback_meaning
+Can two positions have the same color please,color_repeat
+Quit game please,quit_game
+What is a black peg,feedback_meaning
+Bye,quit_game
+What is the goal please,winning_condition
+Begin a new round please,restart_game
+Can two positions have the same color please,color_repeat
+How do i understand the feedback please,feedback_meaning
+Bye please,quit_game
+Explain the black and white pegs,feedback_meaning
+What’s a smart way to guess please,game_strategy
+Can i repeat colors in my guess,color_repeat
+Restart the game,restart_game
+Start a new game please,restart_game
+Start a new game,restart_game
+Start a new game,restart_game
+What is the goal,winning_condition
+What’s the best strategy,game_strategy
+Quit game please,quit_game
+How do i reduce the number of guesses please,game_strategy
+I want to play again please,restart_game
+Exit,quit_game
+Goodbye please,quit_game
+How many times can i use the same color,color_repeat
+I want to play again,restart_game
+Restart the game please,restart_game
+Exit please,quit_game
+How do i reduce the number of guesses please,game_strategy
+"Thanks, i’m done",quit_game
+How do i win,winning_condition
+What is a white peg please,feedback_meaning
+What’s the best strategy please,game_strategy
+What’s a smart way to guess please,game_strategy
+What’s a smart way to guess please,game_strategy
+What is the goal please,winning_condition
+"Thanks, i’m done please",quit_game
+What is a black peg please,feedback_meaning
+What do i need to do to win,winning_condition
+What’s the best strategy,game_strategy
+Exit please,quit_game
+Exit,quit_game
+Can two positions have the same color,color_repeat
+Start a new game,restart_game
+Explain how winning works,winning_condition
+What is the goal,winning_condition
+How do you win mastermind,winning_condition
+What do i need to do to win please,winning_condition
+"Thanks, i’m done please",quit_game
+Let's go again,restart_game
+I want to play again please,restart_game
+What is a white peg please,feedback_meaning
+Can i repeat colors in my guess,color_repeat
+Restart the game,restart_game
+Help me play smarter,game_strategy
+Explain how winning works please,winning_condition
+"Thanks, i’m done please",quit_game
+What do i need to do to win please,winning_condition
+Let's go again,restart_game
+Is color repetition allowed,color_repeat
+What is the goal,winning_condition
+Is color repetition allowed,color_repeat
+How do i understand the feedback,feedback_meaning
+Are repeated colors allowed please,color_repeat
+I want to play again please,restart_game
+Explain how winning works please,winning_condition
+Explain how winning works please,winning_condition
+Restart the game please,restart_game
+Can two positions have the same color,color_repeat
+How many times can i use the same color please,color_repeat
+How do i win,winning_condition
+What does the feedback mean,feedback_meaning
+Give me tips to play better,game_strategy
+What do i need to do to win,winning_condition
+Can two positions have the same color please,color_repeat
+Quit game please,quit_game
+Can two positions have the same color,color_repeat
+Can two positions have the same color please,color_repeat
+What is a black peg,feedback_meaning
+Can i repeat colors in my guess please,color_repeat
+What’s a smart way to guess,game_strategy
+How do you win mastermind,winning_condition
+"Thanks, i’m done please",quit_game
+"Thanks, i’m done please",quit_game
+How do you win mastermind,winning_condition
+Are repeated colors allowed please,color_repeat
+Exit please,quit_game
+Exit please,quit_game
+What is a black peg,feedback_meaning
+"Thanks, i’m done",quit_game
+How do i understand the feedback,feedback_meaning
+What is the goal please,winning_condition
+Can two positions have the same color,color_repeat
+Explain the black and white pegs please,feedback_meaning
+What do i need to do to win please,winning_condition
+What’s the best strategy please,game_strategy
+Let's go again please,restart_game
+How do i reduce the number of guesses,game_strategy
+What do i need to do to win,winning_condition
+What’s a smart way to guess please,game_strategy
+Begin a new round please,restart_game
+Are repeated colors allowed please,color_repeat
+Bye,quit_game
+Are repeated colors allowed please,color_repeat
+Are repeated colors allowed,color_repeat
+Let's go again please,restart_game
+What is a white peg please,feedback_meaning
+How do i reduce the number of guesses,game_strategy
+Quit game please,quit_game
+How do i understand the feedback please,feedback_meaning
+Let's go again,restart_game
+How do i understand the feedback please,feedback_meaning
+Help me play smarter,game_strategy
+How do i understand the feedback,feedback_meaning
+Can i repeat colors in my guess,color_repeat
+How do you win mastermind please,winning_condition
+What is the goal,winning_condition
+Let's go again please,restart_game
+How do i reduce the number of guesses please,game_strategy
+Give me tips to play better,game_strategy
+Give me tips to play better,game_strategy
+What is a white peg please,feedback_meaning
+What’s a smart way to guess,game_strategy
+What is a white peg,feedback_meaning
+I want to play again,restart_game
+Goodbye,quit_game
+Can two positions have the same color please,color_repeat
+Exit please,quit_game
+Let's go again,restart_game
+Can two positions have the same color,color_repeat
+How do i reduce the number of guesses please,game_strategy
+What does the feedback mean please,feedback_meaning
+How many times can i use the same color,color_repeat
+How do i win please,winning_condition
+Quit game,quit_game
+Bye,quit_game
+"Thanks, i’m done",quit_game
+Let's go again,restart_game
+"Thanks, i’m done",quit_game
+Explain how winning works please,winning_condition
+Are repeated colors allowed,color_repeat
+Can two positions have the same color please,color_repeat
+Goodbye please,quit_game
+What’s a smart way to guess,game_strategy
+Bye please,quit_game
+What is a black peg please,feedback_meaning
+Let's go again please,restart_game
+Are repeated colors allowed please,color_repeat
+Bye,quit_game
+What do i need to do to win,winning_condition
+What does the feedback mean please,feedback_meaning
+How do you win mastermind,winning_condition
+Let's go again,restart_game
+What is the goal,winning_condition
+Help me play smarter,game_strategy
+What’s the best strategy,game_strategy
+What is a black peg please,feedback_meaning
+What’s a smart way to guess,game_strategy
+Goodbye,quit_game
+How do i reduce the number of guesses please,game_strategy
+Exit,quit_game
+Goodbye please,quit_game
+Exit please,quit_game
+Is color repetition allowed please,color_repeat
+Start a new game,restart_game
+Is color repetition allowed,color_repeat
+How do i reduce the number of guesses please,game_strategy
+Restart the game please,restart_game
+What does the feedback mean,feedback_meaning
+"Thanks, i’m done",quit_game
+Can i repeat colors in my guess please,color_repeat
+Explain the black and white pegs,feedback_meaning
+I want to play again please,restart_game
+Explain the black and white pegs please,feedback_meaning
+Explain the black and white pegs,feedback_meaning
+What does the feedback mean,feedback_meaning
+Can two positions have the same color,color_repeat
+Start a new game please,restart_game
+Start a new game please,restart_game
+Begin a new round,restart_game
+Explain the black and white pegs please,feedback_meaning
+How do i reduce the number of guesses,game_strategy
+What is the goal,winning_condition
+I want to play again please,restart_game
+I want to play again,restart_game
+Is color repetition allowed please,color_repeat
+What does the feedback mean please,feedback_meaning
+How do i understand the feedback please,feedback_meaning
+What’s the best strategy,game_strategy
+Help me play smarter,game_strategy
+Explain how winning works,winning_condition
+How do i win please,winning_condition
+What is a white peg,feedback_meaning
+What do i need to do to win please,winning_condition
+Quit game please,quit_game
+Goodbye please,quit_game
+Are repeated colors allowed please,color_repeat
+Let's go again,restart_game
+Bye,quit_game
+How do i understand the feedback please,feedback_meaning
+Bye,quit_game
+Exit please,quit_game
+Start a new game,restart_game
+Exit please,quit_game
+I want to play again please,restart_game
+What’s the best strategy,game_strategy
+What is a black peg,feedback_meaning
+Bye please,quit_game
+How many times can i use the same color,color_repeat
+Can i repeat colors in my guess,color_repeat
+Is color repetition allowed,color_repeat
+I want to play again,restart_game
+What is a white peg,feedback_meaning
+Give me tips to play better please,game_strategy
+Explain how winning works,winning_condition
+Explain how winning works please,winning_condition
+Can two positions have the same color please,color_repeat
+Can two positions have the same color please,color_repeat
+How do i reduce the number of guesses please,game_strategy
+I want to play again,restart_game
+Explain how winning works,winning_condition
+"Thanks, i’m done please",quit_game
+Exit please,quit_game
+Exit,quit_game
+What is the goal,winning_condition
+I want to play again please,restart_game
+Begin a new round,restart_game
+How do i reduce the number of guesses please,game_strategy
+How do you win mastermind,winning_condition
+What is a white peg,feedback_meaning
+Is color repetition allowed,color_repeat
+Explain how winning works please,winning_condition
+What does the feedback mean please,feedback_meaning
+Help me play smarter,game_strategy
+Bye please,quit_game
+What’s the best strategy please,game_strategy
+How do you win mastermind,winning_condition
+I want to play again please,restart_game
+What do i need to do to win please,winning_condition
+Begin a new round please,restart_game
+Goodbye,quit_game
+How do i win,winning_condition
+How do i understand the feedback,feedback_meaning
+Explain how winning works,winning_condition
+Begin a new round,restart_game
+Let's go again please,restart_game
+Quit game please,quit_game
+Goodbye please,quit_game
+What’s a smart way to guess please,game_strategy
+Can i repeat colors in my guess please,color_repeat
+I want to play again,restart_game
+What do i need to do to win,winning_condition
+What’s the best strategy,game_strategy
+What do i need to do to win,winning_condition
+Let's go again,restart_game
+Explain how winning works please,winning_condition
+Explain the black and white pegs please,feedback_meaning
+"Thanks, i’m done please",quit_game
+How do i understand the feedback,feedback_meaning
+What do i need to do to win,winning_condition
+Begin a new round please,restart_game
+Quit game please,quit_game
+Is color repetition allowed,color_repeat
+Explain the black and white pegs,feedback_meaning
+Explain how winning works,winning_condition
+Let's go again please,restart_game
+Help me play smarter please,game_strategy
+How do i win,winning_condition
+How many times can i use the same color,color_repeat
+"Thanks, i’m done",quit_game
+How do i reduce the number of guesses,game_strategy
+Bye please,quit_game
+What’s a smart way to guess please,game_strategy
+Goodbye,quit_game
+Bye,quit_game
+Start a new game,restart_game
+Exit,quit_game
+I want to play again,restart_game
+Are repeated colors allowed,color_repeat
+Are repeated colors allowed,color_repeat
+I want to play again,restart_game
+What’s the best strategy please,game_strategy
+Are repeated colors allowed please,color_repeat
+Start a new game,restart_game
+Explain how winning works,winning_condition
+What does the feedback mean please,feedback_meaning
+Explain the black and white pegs,feedback_meaning
+Restart the game please,restart_game
+Restart the game please,restart_game
+Start a new game please,restart_game
+How many times can i use the same color,color_repeat
+What does the feedback mean,feedback_meaning
+Bye please,quit_game
+Goodbye please,quit_game
+What do i need to do to win,winning_condition
+Exit,quit_game
+Is color repetition allowed please,color_repeat
+How do i understand the feedback please,feedback_meaning
+How do you win mastermind,winning_condition
+Are repeated colors allowed,color_repeat
+Can two positions have the same color please,color_repeat
+Quit game,quit_game
+Exit please,quit_game
+What is a black peg please,feedback_meaning
+What is a white peg,feedback_meaning
+How many times can i use the same color please,color_repeat
+Help me play smarter,game_strategy
+Goodbye please,quit_game
+Can i repeat colors in my guess please,color_repeat
+Exit,quit_game
+I want to play again please,restart_game
+Bye please,quit_game
+Is color repetition allowed,color_repeat
+Are repeated colors allowed please,color_repeat
+Explain how winning works,winning_condition
+Restart the game please,restart_game
+How many times can i use the same color please,color_repeat
+Restart the game,restart_game
+Are repeated colors allowed,color_repeat
+Give me tips to play better please,game_strategy
+How do you win mastermind please,winning_condition
+How do you win mastermind,winning_condition
+Begin a new round please,restart_game
+Goodbye,quit_game
+Exit,quit_game
+Can i repeat colors in my guess please,color_repeat
+How do i win,winning_condition
+Quit game,quit_game
+Is color repetition allowed,color_repeat
+Give me tips to play better please,game_strategy
+How do you win mastermind please,winning_condition
+How do i understand the feedback,feedback_meaning
+What is the goal,winning_condition
+What does the feedback mean please,feedback_meaning
+What do i need to do to win please,winning_condition
+Begin a new round please,restart_game
+Let's go again please,restart_game
+Are repeated colors allowed please,color_repeat
+Let's go again,restart_game
+What’s the best strategy,game_strategy
+Let's go again,restart_game
+Explain how winning works,winning_condition
+How do i reduce the number of guesses please,game_strategy
+How do i reduce the number of guesses please,game_strategy
+What does the feedback mean,feedback_meaning
+I want to play again,restart_game
+Bye,quit_game
+What is the goal,winning_condition
+Can i repeat colors in my guess please,color_repeat
+What do i need to do to win please,winning_condition
+How do i reduce the number of guesses please,game_strategy
+What do i need to do to win please,winning_condition
+Is color repetition allowed please,color_repeat
+Are repeated colors allowed,color_repeat
+Give me tips to play better please,game_strategy
+Restart the game,restart_game
+What does the feedback mean,feedback_meaning
+What is a white peg please,feedback_meaning
+Is color repetition allowed please,color_repeat
+Restart the game,restart_game
+Begin a new round please,restart_game
+What is a white peg,feedback_meaning
+What does the feedback mean,feedback_meaning
+Is color repetition allowed,color_repeat
+Give me tips to play better,game_strategy
+Can i repeat colors in my guess please,color_repeat
+Goodbye please,quit_game
+"Thanks, i’m done please",quit_game
+How do i win,winning_condition
+What’s the best strategy please,game_strategy
+What is a white peg,feedback_meaning
+What does the feedback mean,feedback_meaning
+How do i understand the feedback,feedback_meaning
+What’s a smart way to guess,game_strategy
+Start a new game please,restart_game
+Restart the game,restart_game
+What is the goal please,winning_condition
+What do i need to do to win please,winning_condition
+Let's go again,restart_game
+What’s a smart way to guess,game_strategy
+What is the goal please,winning_condition
+Start a new game,restart_game
+Is color repetition allowed please,color_repeat
+Let's go again please,restart_game
+How many times can i use the same color please,color_repeat
+Are repeated colors allowed please,color_repeat
+Bye,quit_game
+What does the feedback mean,feedback_meaning
+Begin a new round please,restart_game
+How do i win,winning_condition
+Start a new game please,restart_game
+Is color repetition allowed please,color_repeat
+How do you win mastermind please,winning_condition
+Bye please,quit_game
+Bye please,quit_game
+Restart the game,restart_game
+How do i win please,winning_condition
+Explain the black and white pegs,feedback_meaning
+"Thanks, i’m done please",quit_game
+What’s a smart way to guess please,game_strategy
+How do i win,winning_condition
+Exit please,quit_game
+What is a white peg,feedback_meaning
+Can two positions have the same color,color_repeat
+How do i understand the feedback please,feedback_meaning
+Give me tips to play better,game_strategy
+Can i repeat colors in my guess,color_repeat
+Begin a new round please,restart_game
+Let's go again,restart_game
+What’s a smart way to guess please,game_strategy
+Bye please,quit_game
+Can two positions have the same color please,color_repeat
+How do you win mastermind please,winning_condition
+Exit please,quit_game
+How do i understand the feedback,feedback_meaning
+What do i need to do to win,winning_condition
+What is the goal please,winning_condition
+What is a black peg,feedback_meaning
+Bye please,quit_game
+What is the goal please,winning_condition
+Start a new game,restart_game
+What is the goal,winning_condition
+What is the goal,winning_condition
+Explain how winning works please,winning_condition
+How do i reduce the number of guesses please,game_strategy
+What’s the best strategy please,game_strategy
+Are repeated colors allowed please,color_repeat
+Help me play smarter please,game_strategy
+Help me play smarter please,game_strategy
+What do i need to do to win,winning_condition
+Restart the game,restart_game
+How do i reduce the number of guesses please,game_strategy
+Exit please,quit_game
+What does the feedback mean please,feedback_meaning
+Let's go again,restart_game
+Can i repeat colors in my guess please,color_repeat
+What’s the best strategy,game_strategy
+How do you win mastermind,winning_condition
+Give me tips to play better,game_strategy
+What’s a smart way to guess,game_strategy
+What’s the best strategy,game_strategy
+Exit,quit_game
+Exit,quit_game
+Quit game please,quit_game
+Quit game please,quit_game
+How do you win mastermind,winning_condition
+Can two positions have the same color please,color_repeat
+What do i need to do to win please,winning_condition
+What’s a smart way to guess please,game_strategy
+Begin a new round,restart_game
+What’s a smart way to guess,game_strategy
+What’s a smart way to guess please,game_strategy
+How do i reduce the number of guesses please,game_strategy
+How do i win,winning_condition
+What’s a smart way to guess please,game_strategy
+Give me tips to play better,game_strategy
+What’s a smart way to guess please,game_strategy
+Bye please,quit_game
+Give me tips to play better,game_strategy
+Let's go again,restart_game
+Restart the game please,restart_game
+Start a new game,restart_game
+Begin a new round please,restart_game
+Quit game,quit_game
+Bye please,quit_game
+Bye please,quit_game
+Goodbye,quit_game
+Goodbye please,quit_game
+Let's go again please,restart_game
+Let's go again please,restart_game
+What do i need to do to win please,winning_condition
+Exit please,quit_game
+What’s the best strategy please,game_strategy
+Let's go again please,restart_game
+What is a white peg,feedback_meaning
+How do you win mastermind please,winning_condition
+What does the feedback mean,feedback_meaning
+How do i understand the feedback please,feedback_meaning
+What is the goal,winning_condition
+Bye,quit_game
+What do i need to do to win,winning_condition
+Start a new game please,restart_game
+What does the feedback mean please,feedback_meaning
+What’s the best strategy please,game_strategy
+Help me play smarter please,game_strategy
+Start a new game,restart_game
+Help me play smarter please,game_strategy
+Is color repetition allowed please,color_repeat
+I want to play again please,restart_game
+Quit game,quit_game
+Bye please,quit_game
+Are repeated colors allowed please,color_repeat
+How do i win,winning_condition
+What is a white peg,feedback_meaning
+What is a white peg,feedback_meaning
+What is a white peg please,feedback_meaning
+Let's go again,restart_game
+Goodbye please,quit_game
+How do i understand the feedback,feedback_meaning
+Are repeated colors allowed please,color_repeat
+Give me tips to play better,game_strategy
+Are repeated colors allowed please,color_repeat
+Begin a new round,restart_game
+How many times can i use the same color please,color_repeat
+How do i win please,winning_condition
+Start a new game please,restart_game
+Is color repetition allowed please,color_repeat
+Can i repeat colors in my guess please,color_repeat
+Is color repetition allowed please,color_repeat
+Explain the black and white pegs,feedback_meaning
+Give me tips to play better,game_strategy
+Goodbye,quit_game
+Exit,quit_game
+Give me tips to play better,game_strategy
+Can two positions have the same color please,color_repeat
+Exit please,quit_game
+Goodbye please,quit_game
+Are repeated colors allowed please,color_repeat
+Are repeated colors allowed please,color_repeat
+Begin a new round,restart_game
+Restart the game please,restart_game
+How do you win mastermind please,winning_condition
+How do i win please,winning_condition
+What’s the best strategy please,game_strategy
+Bye,quit_game
+Help me play smarter,game_strategy
+Give me tips to play better,game_strategy
+What is a black peg,feedback_meaning
+Start a new game,restart_game
+How many times can i use the same color,color_repeat
+I want to play again please,restart_game
+Can i repeat colors in my guess,color_repeat
+How many times can i use the same color please,color_repeat
+Are repeated colors allowed please,color_repeat
+Give me tips to play better please,game_strategy
+How do you win mastermind please,winning_condition
+What do i need to do to win please,winning_condition
+How do i reduce the number of guesses please,game_strategy
+What is a black peg,feedback_meaning
+Let's go again please,restart_game
+Exit,quit_game
+Can i repeat colors in my guess,color_repeat
+What does the feedback mean please,feedback_meaning
+Help me play smarter,game_strategy
+Start a new game please,restart_game
+What do i need to do to win,winning_condition
+Can i repeat colors in my guess please,color_repeat
+Begin a new round please,restart_game
+What is a white peg please,feedback_meaning
+Is color repetition allowed,color_repeat
+I want to play again,restart_game
+What is a black peg,feedback_meaning
+Can two positions have the same color please,color_repeat
+Let's go again,restart_game
+Give me tips to play better please,game_strategy
+I want to play again please,restart_game
+Begin a new round please,restart_game
+Let's go again please,restart_game
+How many times can i use the same color,color_repeat
+Bye,quit_game
+Start a new game please,restart_game
+Let's go again,restart_game
+What’s a smart way to guess,game_strategy
+Goodbye please,quit_game
+Give me tips to play better,game_strategy
+Let's go again,restart_game
+How many times can i use the same color,color_repeat
+Quit game,quit_game
+What’s a smart way to guess,game_strategy
+What is the goal please,winning_condition
+Quit game,quit_game
+Start a new game please,restart_game
+How do you win mastermind,winning_condition
+Help me play smarter,game_strategy
+How do i win,winning_condition
+Help me play smarter,game_strategy
+Exit,quit_game
+Begin a new round,restart_game
+What’s a smart way to guess please,game_strategy
+What’s a smart way to guess please,game_strategy
+Help me play smarter please,game_strategy
+What does the feedback mean please,feedback_meaning
+"Thanks, i’m done",quit_game
+Bye please,quit_game
+What’s a smart way to guess,game_strategy
+Exit please,quit_game
+What does the feedback mean,feedback_meaning
+How do you win mastermind please,winning_condition
+Help me play smarter please,game_strategy
+Can two positions have the same color please,color_repeat
+Goodbye please,quit_game
+Exit please,quit_game
+Can i repeat colors in my guess,color_repeat
+How do i understand the feedback,feedback_meaning
+Explain the black and white pegs please,feedback_meaning
+What do i need to do to win please,winning_condition
+How do i reduce the number of guesses please,game_strategy
+Bye,quit_game
+What do i need to do to win please,winning_condition
+What does the feedback mean,feedback_meaning
+Can two positions have the same color,color_repeat
+Can i repeat colors in my guess,color_repeat
+What’s the best strategy please,game_strategy
+Can two positions have the same color,color_repeat
+Explain how winning works,winning_condition
+Are repeated colors allowed,color_repeat
+Explain how winning works,winning_condition
+How do i win please,winning_condition
+What is a black peg please,feedback_meaning
+Help me play smarter,game_strategy
+Goodbye,quit_game
+Let's go again please,restart_game
+How do you win mastermind,winning_condition
+Begin a new round please,restart_game
+Quit game please,quit_game
+Exit please,quit_game
+Can two positions have the same color please,color_repeat
+How do you win mastermind,winning_condition
+Give me tips to play better please,game_strategy
+What’s a smart way to guess,game_strategy
+Help me play smarter please,game_strategy
+Exit,quit_game
+Bye,quit_game
+Let's go again please,restart_game
+Quit game please,quit_game
+Explain the black and white pegs please,feedback_meaning
+How do i reduce the number of guesses please,game_strategy
+Can two positions have the same color,color_repeat
+How do i understand the feedback,feedback_meaning
+Can two positions have the same color,color_repeat
+Explain how winning works,winning_condition
+Let's go again,restart_game
+How do i reduce the number of guesses please,game_strategy
+What does the feedback mean,feedback_meaning
+I want to play again please,restart_game
+Explain how winning works please,winning_condition
+Bye,quit_game
+What’s the best strategy,game_strategy
+I want to play again please,restart_game
+Goodbye please,quit_game
+What’s a smart way to guess please,game_strategy
+Is color repetition allowed please,color_repeat
+What do i need to do to win,winning_condition
+What is the goal,winning_condition
+Restart the game please,restart_game
+What’s a smart way to guess,game_strategy
+Is color repetition allowed,color_repeat
+What’s a smart way to guess please,game_strategy
+Explain the black and white pegs please,feedback_meaning
+How many times can i use the same color please,color_repeat
+Goodbye,quit_game
+How do i win,winning_condition
+What does the feedback mean,feedback_meaning
+Explain how winning works,winning_condition
+How do i understand the feedback please,feedback_meaning
+What’s a smart way to guess please,game_strategy
+What is a black peg,feedback_meaning
+How do i reduce the number of guesses,game_strategy
+Explain how winning works please,winning_condition
+Start a new game,restart_game
+Give me tips to play better please,game_strategy
+What is the goal please,winning_condition
+What do i need to do to win please,winning_condition
+I want to play again,restart_game
+Explain how winning works please,winning_condition
+How do i win please,winning_condition
+What is a white peg,feedback_meaning
+Let's go again,restart_game
+Can i repeat colors in my guess,color_repeat
+Explain the black and white pegs please,feedback_meaning
+Is color repetition allowed,color_repeat
+Explain the black and white pegs,feedback_meaning
+Let's go again,restart_game
+What is a black peg please,feedback_meaning
+Can two positions have the same color,color_repeat
+How do i win please,winning_condition
+What is a black peg please,feedback_meaning
+Exit please,quit_game
+Quit game please,quit_game
+Quit game please,quit_game
+What is a white peg,feedback_meaning
+How do you win mastermind,winning_condition
+Begin a new round please,restart_game
+What’s a smart way to guess please,game_strategy
+Can two positions have the same color,color_repeat
+Are repeated colors allowed please,color_repeat
+How many times can i use the same color,color_repeat
+How many times can i use the same color please,color_repeat
+What is a black peg please,feedback_meaning
+How many times can i use the same color please,color_repeat
+Explain how winning works,winning_condition
+Let's go again please,restart_game
+What’s the best strategy please,game_strategy
+Is color repetition allowed please,color_repeat
+Can two positions have the same color please,color_repeat
+What does the feedback mean please,feedback_meaning
+Can i repeat colors in my guess,color_repeat
+Explain the black and white pegs please,feedback_meaning
+Explain the black and white pegs please,feedback_meaning
+Is color repetition allowed please,color_repeat
+How do you win mastermind please,winning_condition
+Explain the black and white pegs please,feedback_meaning
+How do i reduce the number of guesses please,game_strategy
+Explain the black and white pegs,feedback_meaning
+Can i repeat colors in my guess,color_repeat
+Restart the game,restart_game
+What do i need to do to win,winning_condition
+Explain how winning works please,winning_condition
+I want to play again please,restart_game
+Begin a new round,restart_game
+How do i reduce the number of guesses please,game_strategy
+"Thanks, i’m done",quit_game
+How do you win mastermind please,winning_condition
+Explain the black and white pegs please,feedback_meaning
+Restart the game,restart_game
+How do you win mastermind please,winning_condition
+What is the goal,winning_condition
+What do i need to do to win please,winning_condition
+Explain the black and white pegs,feedback_meaning
+Start a new game please,restart_game
+What is a white peg please,feedback_meaning
+What is the goal please,winning_condition
+What is a white peg please,feedback_meaning
+What do i need to do to win,winning_condition
+Can two positions have the same color please,color_repeat
+What’s a smart way to guess please,game_strategy
+I want to play again,restart_game
+Explain the black and white pegs please,feedback_meaning
+Goodbye please,quit_game
+What do i need to do to win,winning_condition
+Is color repetition allowed please,color_repeat
+What’s the best strategy,game_strategy
+What does the feedback mean,feedback_meaning
+Restart the game please,restart_game
+Quit game,quit_game
+"Thanks, i’m done",quit_game
+What is a white peg please,feedback_meaning
+Bye please,quit_game
+What does the feedback mean,feedback_meaning
+I want to play again,restart_game
+Bye,quit_game
+How many times can i use the same color,color_repeat
+Quit game please,quit_game
+What is the goal please,winning_condition
+What is the goal please,winning_condition
+Let's go again,restart_game
+Help me play smarter please,game_strategy
+What’s a smart way to guess please,game_strategy
+Exit please,quit_game
+Help me play smarter please,game_strategy
+What is a white peg please,feedback_meaning
+Help me play smarter,game_strategy
+Goodbye please,quit_game
+I want to play again please,restart_game
+Start a new game,restart_game
+Restart the game,restart_game
+Begin a new round,restart_game
+Explain how winning works please,winning_condition
+Is color repetition allowed,color_repeat
+Explain how winning works,winning_condition
+How do you win mastermind,winning_condition
+Begin a new round please,restart_game
+Begin a new round please,restart_game
+What is a white peg,feedback_meaning
+Help me play smarter please,game_strategy
+Exit,quit_game
+Goodbye,quit_game
+What is a black peg,feedback_meaning
+How do you win mastermind,winning_condition
+How do i understand the feedback,feedback_meaning
+Let's go again please,restart_game
+Can two positions have the same color,color_repeat
+Explain the black and white pegs please,feedback_meaning
+Let's go again please,restart_game
+What is a white peg please,feedback_meaning
+What is a white peg,feedback_meaning
+How do i reduce the number of guesses please,game_strategy
+How do you win mastermind,winning_condition
+Are repeated colors allowed please,color_repeat
+Explain the black and white pegs,feedback_meaning
+How many times can i use the same color please,color_repeat
+What is a black peg,feedback_meaning
+Can i repeat colors in my guess,color_repeat
+I want to play again,restart_game
+"Thanks, i’m done",quit_game
+Let's go again please,restart_game
+Can two positions have the same color please,color_repeat
+Bye please,quit_game
+Start a new game please,restart_game
+Goodbye please,quit_game
+Start a new game please,restart_game
+How do i reduce the number of guesses,game_strategy
+Start a new game,restart_game
+Can two positions have the same color,color_repeat
+Give me tips to play better,game_strategy
+Explain the black and white pegs,feedback_meaning
+Help me play smarter please,game_strategy
+What is a white peg,feedback_meaning
+What is a white peg,feedback_meaning
+Let's go again please,restart_game
+How do i reduce the number of guesses,game_strategy
+What is a white peg,feedback_meaning
+How do you win mastermind please,winning_condition
+How do i understand the feedback,feedback_meaning
+What do i need to do to win,winning_condition
+Can i repeat colors in my guess please,color_repeat
+Are repeated colors allowed,color_repeat
+How many times can i use the same color,color_repeat
+"Thanks, i’m done",quit_game
+Help me play smarter,game_strategy
+Explain how winning works please,winning_condition
+Exit please,quit_game
+What do i need to do to win please,winning_condition
+Let's go again,restart_game
+What’s a smart way to guess,game_strategy
+What is the goal please,winning_condition
+How many times can i use the same color please,color_repeat
+Can i repeat colors in my guess please,color_repeat
+Quit game,quit_game
+How do i reduce the number of guesses please,game_strategy
+What is a black peg,feedback_meaning
+How many times can i use the same color,color_repeat
+What is the goal,winning_condition
+Help me play smarter please,game_strategy
+Is color repetition allowed please,color_repeat
+How do i win please,winning_condition
+Help me play smarter,game_strategy
+Help me play smarter,game_strategy
+Quit game please,quit_game
+How do i understand the feedback,feedback_meaning
+What’s a smart way to guess please,game_strategy
+"Thanks, i’m done",quit_game
+What is a white peg,feedback_meaning
+Exit,quit_game
+How do i understand the feedback please,feedback_meaning
+How do you win mastermind please,winning_condition
+How do i win please,winning_condition
+What do i need to do to win please,winning_condition
+I want to play again,restart_game
+Can i repeat colors in my guess,color_repeat
+How do i reduce the number of guesses,game_strategy
+How many times can i use the same color please,color_repeat
+What is the goal please,winning_condition
+How do i reduce the number of guesses,game_strategy
+What do i need to do to win please,winning_condition
+Are repeated colors allowed please,color_repeat
+Help me play smarter,game_strategy
+Start a new game please,restart_game
+Are repeated colors allowed please,color_repeat
+Exit,quit_game
+Explain how winning works,winning_condition
+How do i reduce the number of guesses,game_strategy
+Bye,quit_game
+Begin a new round,restart_game
+How do i win,winning_condition
+What is a white peg,feedback_meaning
+How do i win,winning_condition
+What’s the best strategy,game_strategy
+How do i understand the feedback please,feedback_meaning
+Quit game,quit_game
+How do i reduce the number of guesses,game_strategy
+What’s the best strategy please,game_strategy
+What is a white peg,feedback_meaning
+What is a black peg,feedback_meaning
+What is a black peg,feedback_meaning
+Begin a new round,restart_game
+How do i reduce the number of guesses please,game_strategy
+Is color repetition allowed,color_repeat
+Quit game please,quit_game
+How do i win please,winning_condition
+Goodbye please,quit_game
+Exit,quit_game
+What’s the best strategy,game_strategy
+Is color repetition allowed please,color_repeat
+What is a black peg,feedback_meaning
+How do i understand the feedback,feedback_meaning
+What do i need to do to win,winning_condition
+Explain how winning works,winning_condition
+Goodbye,quit_game
+Quit game,quit_game
+I want to play again,restart_game
+I want to play again please,restart_game
+How do you win mastermind,winning_condition
+Goodbye,quit_game
+What is a black peg,feedback_meaning
+What’s the best strategy,game_strategy
+Help me play smarter please,game_strategy
+I want to play again please,restart_game
+Exit,quit_game
+What do i need to do to win please,winning_condition
+Explain the black and white pegs please,feedback_meaning
+Can i repeat colors in my guess please,color_repeat
+Goodbye please,quit_game
+Let's go again please,restart_game
+What’s the best strategy,game_strategy
+Bye,quit_game
+Restart the game please,restart_game
+What is a black peg,feedback_meaning
+Restart the game,restart_game
+How do i understand the feedback,feedback_meaning
+Help me play smarter please,game_strategy
+What does the feedback mean,feedback_meaning
+Explain how winning works please,winning_condition
+Can i repeat colors in my guess please,color_repeat
+What is a black peg please,feedback_meaning
+How do i understand the feedback,feedback_meaning
+What’s the best strategy,game_strategy
+What is the goal please,winning_condition
+Help me play smarter please,game_strategy
+What is a white peg,feedback_meaning
+What’s a smart way to guess,game_strategy
+Is color repetition allowed please,color_repeat
+How do you win mastermind,winning_condition
+How do i win,winning_condition
+What does the feedback mean please,feedback_meaning
+Goodbye,quit_game
+What is a black peg,feedback_meaning
+Start a new game please,restart_game
+Begin a new round please,restart_game
+What’s a smart way to guess please,game_strategy
+Explain how winning works please,winning_condition
+How do you win mastermind please,winning_condition
+How do i reduce the number of guesses please,game_strategy
+What’s a smart way to guess please,game_strategy
+Begin a new round please,restart_game
+What does the feedback mean,feedback_meaning
+Explain how winning works please,winning_condition
+"Thanks, i’m done",quit_game
+Explain the black and white pegs please,feedback_meaning
+How do i understand the feedback,feedback_meaning
+Explain how winning works please,winning_condition
+How do i reduce the number of guesses,game_strategy
+How do i win,winning_condition
+Can i repeat colors in my guess please,color_repeat
+Goodbye please,quit_game
+Begin a new round,restart_game
+Begin a new round please,restart_game
+"Thanks, i’m done",quit_game
+Is color repetition allowed,color_repeat
+What’s the best strategy please,game_strategy
+Give me tips to play better,game_strategy
+What is the goal,winning_condition
+Restart the game,restart_game
+Explain the black and white pegs,feedback_meaning
+What is a black peg,feedback_meaning
+What do i need to do to win,winning_condition
+What is a white peg,feedback_meaning
+How do you win mastermind please,winning_condition
+What’s the best strategy,game_strategy
+How do i understand the feedback please,feedback_meaning
+Give me tips to play better please,game_strategy
+What is a black peg,feedback_meaning
+How do i reduce the number of guesses,game_strategy
+"Thanks, i’m done",quit_game
+How do you win mastermind please,winning_condition
+Explain how winning works please,winning_condition
+Restart the game please,restart_game
+What is a black peg,feedback_meaning
+How do i reduce the number of guesses please,game_strategy
+Let's go again,restart_game
+How do i reduce the number of guesses,game_strategy
+Is color repetition allowed please,color_repeat
+Quit game,quit_game
+Quit game please,quit_game
+What is the goal please,winning_condition
+What does the feedback mean please,feedback_meaning
+Are repeated colors allowed,color_repeat
+Is color repetition allowed please,color_repeat
+Explain the black and white pegs,feedback_meaning
+What’s a smart way to guess,game_strategy
+Can two positions have the same color please,color_repeat
+I want to play again please,restart_game
+Begin a new round,restart_game
+How do i reduce the number of guesses,game_strategy
+How do i understand the feedback,feedback_meaning
+"Thanks, i’m done please",quit_game
+Are repeated colors allowed please,color_repeat
+What do i need to do to win please,winning_condition
+What is the goal please,winning_condition
+What do i need to do to win,winning_condition
+Exit please,quit_game
+How do i reduce the number of guesses,game_strategy
+What does the feedback mean please,feedback_meaning
+Exit,quit_game
+Quit game,quit_game
+Quit game please,quit_game
+What is a black peg please,feedback_meaning
+How do i reduce the number of guesses,game_strategy
+Let's go again,restart_game
+How do i reduce the number of guesses,game_strategy
+Quit game please,quit_game
+Explain how winning works please,winning_condition
+Can two positions have the same color,color_repeat
+Explain how winning works please,winning_condition
+Can i repeat colors in my guess,color_repeat
+How many times can i use the same color please,color_repeat
+What’s the best strategy please,game_strategy
+What do i need to do to win please,winning_condition
+What is a white peg please,feedback_meaning
+Can i repeat colors in my guess please,color_repeat
+Give me tips to play better please,game_strategy
+Bye,quit_game
+Begin a new round please,restart_game
+Begin a new round please,restart_game
+Begin a new round please,restart_game
+What is a white peg please,feedback_meaning
+What is a white peg please,feedback_meaning
+I want to play again,restart_game
+I want to play again,restart_game
+Restart the game please,restart_game
+"Thanks, i’m done",quit_game
+Explain the black and white pegs please,feedback_meaning
+Exit,quit_game
+How do i understand the feedback please,feedback_meaning
+How do i win please,winning_condition
+Give me tips to play better please,game_strategy
+How many times can i use the same color,color_repeat
+How do i reduce the number of guesses,game_strategy
+How do you win mastermind please,winning_condition
+How many times can i use the same color,color_repeat
+What’s a smart way to guess,game_strategy
+What is the goal please,winning_condition
+How do you win mastermind please,winning_condition
+Give me tips to play better please,game_strategy
+What’s the best strategy,game_strategy
+What do i need to do to win,winning_condition
+How do i understand the feedback please,feedback_meaning
+Can i repeat colors in my guess please,color_repeat
+Bye,quit_game
+What is the goal please,winning_condition
+Are repeated colors allowed please,color_repeat
+Restart the game,restart_game
+Are repeated colors allowed please,color_repeat
+What do i need to do to win,winning_condition
+"Thanks, i’m done please",quit_game
+How many times can i use the same color please,color_repeat
+What is a black peg,feedback_meaning
+How do you win mastermind please,winning_condition
+Begin a new round,restart_game
+"Thanks, i’m done please",quit_game
+How do i understand the feedback please,feedback_meaning
+What is the goal please,winning_condition
+Goodbye,quit_game
+What is the goal please,winning_condition
+Goodbye please,quit_game
+What is a white peg please,feedback_meaning
+How many times can i use the same color,color_repeat
+Explain the black and white pegs please,feedback_meaning
+Let's go again please,restart_game
+Start a new game,restart_game
+How many times can i use the same color,color_repeat
+What does the feedback mean,feedback_meaning
+How do i win,winning_condition
+Goodbye,quit_game
+What is a white peg please,feedback_meaning
+Give me tips to play better,game_strategy
+Can two positions have the same color please,color_repeat
+Explain how winning works,winning_condition
+Start a new game please,restart_game
+I want to play again,restart_game
+Give me tips to play better,game_strategy
+What is a white peg please,feedback_meaning
+Can i repeat colors in my guess,color_repeat
+What is a black peg,feedback_meaning
+What is a black peg,feedback_meaning
+Quit game please,quit_game
+What is the goal please,winning_condition
+How many times can i use the same color please,color_repeat
+"Thanks, i’m done",quit_game
+How do i understand the feedback please,feedback_meaning
+Are repeated colors allowed please,color_repeat
+Restart the game please,restart_game
+Goodbye please,quit_game
+What’s the best strategy please,game_strategy
+What does the feedback mean please,feedback_meaning
+Begin a new round,restart_game
+Give me tips to play better please,game_strategy
+Goodbye please,quit_game
+What is the goal,winning_condition
+How do i understand the feedback,feedback_meaning
+Can i repeat colors in my guess,color_repeat
+Bye please,quit_game
+What do i need to do to win,winning_condition
+Can i repeat colors in my guess please,color_repeat
+What does the feedback mean please,feedback_meaning
+Help me play smarter,game_strategy
+What is a white peg please,feedback_meaning
+What does the feedback mean please,feedback_meaning
+Start a new game,restart_game
+Can i repeat colors in my guess please,color_repeat
+Start a new game,restart_game
+Bye please,quit_game
+Quit game please,quit_game
+How do i understand the feedback please,feedback_meaning
+Goodbye please,quit_game
+I want to play again please,restart_game
+What does the feedback mean please,feedback_meaning
+Goodbye,quit_game
+What’s the best strategy please,game_strategy
+Are repeated colors allowed,color_repeat
+How do you win mastermind,winning_condition
+Give me tips to play better please,game_strategy
+How do i reduce the number of guesses,game_strategy
+Let's go again,restart_game
+Goodbye,quit_game
+What is the goal please,winning_condition
+What do i need to do to win,winning_condition
+Exit,quit_game
+Explain the black and white pegs,feedback_meaning
+Goodbye please,quit_game
+What is a black peg please,feedback_meaning
+Quit game please,quit_game
+Restart the game please,restart_game
+How do i understand the feedback,feedback_meaning
+How do i win please,winning_condition
+Can i repeat colors in my guess please,color_repeat
+What is a black peg,feedback_meaning
+Can two positions have the same color,color_repeat
+Bye,quit_game
+Are repeated colors allowed please,color_repeat
+Explain the black and white pegs please,feedback_meaning
+What is a black peg,feedback_meaning
+Exit please,quit_game
+"Thanks, i’m done",quit_game
+Can i repeat colors in my guess please,color_repeat
+Begin a new round please,restart_game
+Let's go again,restart_game
+What is the goal,winning_condition
+Exit please,quit_game
+What is a white peg please,feedback_meaning
+How do you win mastermind,winning_condition
+What is a white peg please,feedback_meaning
+Begin a new round,restart_game
+Can two positions have the same color please,color_repeat
+What does the feedback mean please,feedback_meaning
+Can two positions have the same color,color_repeat
+Are repeated colors allowed please,color_repeat
+How do i understand the feedback please,feedback_meaning
+How do i win,winning_condition
+Start a new game,restart_game
+What’s a smart way to guess,game_strategy
+Give me tips to play better,game_strategy
+What does the feedback mean please,feedback_meaning
+Quit game please,quit_game
+What do i need to do to win please,winning_condition
+Let's go again,restart_game
+I want to play again please,restart_game
+Explain the black and white pegs,feedback_meaning
+Exit please,quit_game
+Can i repeat colors in my guess,color_repeat
+Exit,quit_game
+How do i win,winning_condition
+I want to play again please,restart_game
+Let's go again please,restart_game
+Bye,quit_game
+Quit game please,quit_game
+What is the goal,winning_condition
+Quit game,quit_game
+Restart the game,restart_game
+How many times can i use the same color,color_repeat
+What do i need to do to win,winning_condition
+How many times can i use the same color please,color_repeat
+What do i need to do to win,winning_condition
+Bye,quit_game
+Can two positions have the same color please,color_repeat
+What does the feedback mean please,feedback_meaning
+What is the goal,winning_condition
+Can two positions have the same color,color_repeat
+What does the feedback mean,feedback_meaning
+Begin a new round,restart_game
+How many times can i use the same color please,color_repeat
+Goodbye please,quit_game
+Goodbye,quit_game
+Start a new game please,restart_game
+"Thanks, i’m done",quit_game
+Begin a new round please,restart_game
+Start a new game,restart_game
+Help me play smarter,game_strategy
+Can i repeat colors in my guess,color_repeat
+What does the feedback mean please,feedback_meaning
+I want to play again,restart_game
+How do i understand the feedback,feedback_meaning
+What does the feedback mean,feedback_meaning
+What’s a smart way to guess please,game_strategy
+What do i need to do to win,winning_condition
+Start a new game please,restart_game
+Bye please,quit_game
+What’s the best strategy,game_strategy
+How many times can i use the same color please,color_repeat
+Restart the game please,restart_game
+Explain how winning works,winning_condition
+How do you win mastermind please,winning_condition
+How do you win mastermind,winning_condition
+Exit,quit_game
+Goodbye,quit_game
+How do i reduce the number of guesses please,game_strategy
+Exit,quit_game
+Help me play smarter please,game_strategy
+Restart the game,restart_game
+How do i win,winning_condition
+"Thanks, i’m done please",quit_game
+What’s a smart way to guess please,game_strategy
+I want to play again,restart_game
+How do i win please,winning_condition
+Quit game please,quit_game
+Help me play smarter,game_strategy
+How many times can i use the same color please,color_repeat
+Restart the game please,restart_game
+Bye,quit_game
+Let's go again please,restart_game
+Can i repeat colors in my guess,color_repeat
+How do i understand the feedback please,feedback_meaning
+Give me tips to play better please,game_strategy
+How do you win mastermind please,winning_condition
+Exit,quit_game
+What does the feedback mean,feedback_meaning
+Let's go again please,restart_game
+Let's go again,restart_game
+What is the goal please,winning_condition
+What’s the best strategy,game_strategy
+What is a white peg please,feedback_meaning
+Bye please,quit_game
+What is a white peg please,feedback_meaning
+Explain the black and white pegs,feedback_meaning
+Bye,quit_game
+Begin a new round please,restart_game
+What’s the best strategy,game_strategy
+What does the feedback mean,feedback_meaning
+How do i reduce the number of guesses please,game_strategy
+Are repeated colors allowed please,color_repeat
+Give me tips to play better,game_strategy
+I want to play again,restart_game
+What does the feedback mean,feedback_meaning
+How many times can i use the same color,color_repeat
+Give me tips to play better please,game_strategy
+How do i reduce the number of guesses please,game_strategy
+What is a white peg please,feedback_meaning
+Is color repetition allowed,color_repeat
+Can i repeat colors in my guess please,color_repeat
+Are repeated colors allowed please,color_repeat
+Help me play smarter please,game_strategy
+What is the goal,winning_condition
+How do i win please,winning_condition
+Explain the black and white pegs please,feedback_meaning
+What’s a smart way to guess,game_strategy
+Quit game please,quit_game
+Begin a new round,restart_game
+Can two positions have the same color,color_repeat
+Exit,quit_game
+How do i win,winning_condition
+What’s the best strategy please,game_strategy
+What is a black peg,feedback_meaning
+Can two positions have the same color please,color_repeat
+How do you win mastermind,winning_condition
+How do i understand the feedback please,feedback_meaning
+Quit game please,quit_game
+Can two positions have the same color,color_repeat
+What’s the best strategy,game_strategy
+Begin a new round,restart_game
+Explain how winning works,winning_condition
+What is a black peg please,feedback_meaning
+How many times can i use the same color please,color_repeat
+What is the goal,winning_condition
+How many times can i use the same color,color_repeat
+Let's go again please,restart_game
+Restart the game please,restart_game
+Explain the black and white pegs,feedback_meaning
+What does the feedback mean please,feedback_meaning
+Explain the black and white pegs please,feedback_meaning
+What is the goal,winning_condition
+Exit please,quit_game
+Are repeated colors allowed please,color_repeat
+What is the goal please,winning_condition
+What is a black peg please,feedback_meaning
+What do i need to do to win please,winning_condition
+Exit please,quit_game
+How do i reduce the number of guesses please,game_strategy
+How do i reduce the number of guesses,game_strategy
+Give me tips to play better please,game_strategy
+What is the goal,winning_condition
+Exit,quit_game
+Exit,quit_game
+Can i repeat colors in my guess please,color_repeat
+How many times can i use the same color please,color_repeat
+Let's go again,restart_game
+Begin a new round,restart_game
+Goodbye please,quit_game
+How do i understand the feedback please,feedback_meaning
+I want to play again,restart_game
+What does the feedback mean please,feedback_meaning
+What do i need to do to win,winning_condition
+How do i reduce the number of guesses please,game_strategy
+Explain the black and white pegs,feedback_meaning
+Can two positions have the same color,color_repeat
+What is the goal please,winning_condition
+Help me play smarter please,game_strategy
+Goodbye,quit_game
+Begin a new round,restart_game
+How do i reduce the number of guesses please,game_strategy
+Quit game please,quit_game
+What do i need to do to win,winning_condition
+Can two positions have the same color,color_repeat
+What does the feedback mean please,feedback_meaning
+What does the feedback mean,feedback_meaning
+What does the feedback mean,feedback_meaning
+Is color repetition allowed,color_repeat
+Restart the game,restart_game
+"Thanks, i’m done please",quit_game
+"Thanks, i’m done please",quit_game
+"Thanks, i’m done",quit_game
+Is color repetition allowed,color_repeat
+What is a white peg please,feedback_meaning
+How do you win mastermind please,winning_condition
+How do you win mastermind please,winning_condition
+Are repeated colors allowed please,color_repeat
+How do i reduce the number of guesses,game_strategy
+Start a new game,restart_game
+Quit game,quit_game
+Exit,quit_game
+How do you win mastermind please,winning_condition
+Bye,quit_game
+Can i repeat colors in my guess,color_repeat
+Give me tips to play better please,game_strategy
+Is color repetition allowed,color_repeat
+What is a black peg please,feedback_meaning
+How many times can i use the same color please,color_repeat
+Start a new game please,restart_game
+What is a white peg please,feedback_meaning
+Let's go again,restart_game
+How do i reduce the number of guesses please,game_strategy
+What’s the best strategy,game_strategy
+Restart the game,restart_game
+Goodbye please,quit_game
+"Thanks, i’m done",quit_game
+Give me tips to play better,game_strategy
+Explain the black and white pegs please,feedback_meaning
+Are repeated colors allowed,color_repeat
+What does the feedback mean,feedback_meaning
+What do i need to do to win please,winning_condition
+Let's go again,restart_game
+Begin a new round,restart_game
+Bye,quit_game
+Can i repeat colors in my guess,color_repeat
+What is a black peg please,feedback_meaning
+What is the goal please,winning_condition
+How do you win mastermind,winning_condition
+Restart the game please,restart_game
+Exit please,quit_game
+Can two positions have the same color please,color_repeat
+How do i win please,winning_condition
+What’s the best strategy please,game_strategy
+What is the goal please,winning_condition
+Explain the black and white pegs,feedback_meaning
+What do i need to do to win please,winning_condition
+Quit game please,quit_game
+Quit game,quit_game
+Restart the game please,restart_game
+How do you win mastermind please,winning_condition
+Exit please,quit_game
+How do you win mastermind,winning_condition
+What do i need to do to win please,winning_condition
+Bye,quit_game
+Goodbye,quit_game
+How do you win mastermind,winning_condition
+Explain the black and white pegs,feedback_meaning
+Explain how winning works please,winning_condition
+Begin a new round,restart_game
+Let's go again please,restart_game
+Help me play smarter,game_strategy
+Explain how winning works,winning_condition
+How do i reduce the number of guesses,game_strategy
+Are repeated colors allowed please,color_repeat
+Let's go again please,restart_game
+How do you win mastermind please,winning_condition
+Help me play smarter please,game_strategy
+I want to play again please,restart_game
+Bye,quit_game
+Start a new game please,restart_game
+Can i repeat colors in my guess,color_repeat
+Are repeated colors allowed,color_repeat
+Can i repeat colors in my guess please,color_repeat
+How many times can i use the same color,color_repeat
+What does the feedback mean,feedback_meaning
+How do i win please,winning_condition
+Help me play smarter,game_strategy
+Can i repeat colors in my guess,color_repeat
+Are repeated colors allowed please,color_repeat
+What do i need to do to win,winning_condition
+What’s a smart way to guess please,game_strategy
+I want to play again please,restart_game
+Exit,quit_game
+Help me play smarter please,game_strategy
+How do i win,winning_condition
+Start a new game,restart_game
+Are repeated colors allowed please,color_repeat
+I want to play again please,restart_game
+Give me tips to play better please,game_strategy
+Help me play smarter please,game_strategy
+How do you win mastermind,winning_condition
+What’s the best strategy,game_strategy
+Can i repeat colors in my guess,color_repeat
+Let's go again please,restart_game
+Explain how winning works,winning_condition
+Begin a new round please,restart_game
+Give me tips to play better,game_strategy
+Exit please,quit_game
+How do i understand the feedback please,feedback_meaning
+Start a new game please,restart_game
+Explain how winning works please,winning_condition
+Explain the black and white pegs,feedback_meaning
+Are repeated colors allowed please,color_repeat
+Quit game please,quit_game
+What’s the best strategy,game_strategy
+Let's go again please,restart_game
+Begin a new round,restart_game
+"Thanks, i’m done please",quit_game
+Quit game please,quit_game
+What’s the best strategy,game_strategy
+Explain how winning works,winning_condition
+Quit game please,quit_game
+How do i win please,winning_condition
+Is color repetition allowed,color_repeat
+Can i repeat colors in my guess please,color_repeat
+Exit please,quit_game
+Explain the black and white pegs,feedback_meaning
+How do i win please,winning_condition
+What does the feedback mean,feedback_meaning
+Start a new game,restart_game
+Are repeated colors allowed,color_repeat
+Are repeated colors allowed please,color_repeat
+Exit,quit_game
+Bye please,quit_game
+Begin a new round please,restart_game
+What’s a smart way to guess please,game_strategy
+How do i win,winning_condition
+Are repeated colors allowed please,color_repeat
+How do i win,winning_condition
+Restart the game please,restart_game
+Explain the black and white pegs please,feedback_meaning
+Can two positions have the same color please,color_repeat
+What is the goal,winning_condition
+Begin a new round please,restart_game
+Is color repetition allowed please,color_repeat
+What’s the best strategy,game_strategy
+Are repeated colors allowed please,color_repeat
+Restart the game please,restart_game
+What is a black peg,feedback_meaning
+Quit game please,quit_game
+What is a white peg,feedback_meaning
+Help me play smarter,game_strategy
+How many times can i use the same color,color_repeat
+How do you win mastermind please,winning_condition
+Explain the black and white pegs,feedback_meaning
+Can two positions have the same color please,color_repeat
+"Thanks, i’m done",quit_game
+What does the feedback mean,feedback_meaning
+Explain how winning works please,winning_condition
+How do i understand the feedback please,feedback_meaning
+Can i repeat colors in my guess please,color_repeat
+How do you win mastermind,winning_condition
+How do you win mastermind,winning_condition
+How do i reduce the number of guesses,game_strategy
+Help me play smarter please,game_strategy
+Bye please,quit_game
+What is the goal,winning_condition
+How many times can i use the same color please,color_repeat
+How many times can i use the same color,color_repeat
+Exit,quit_game
+Give me tips to play better please,game_strategy
+Explain how winning works,winning_condition
+Quit game,quit_game
+Let's go again,restart_game
+What does the feedback mean,feedback_meaning
+How do i understand the feedback please,feedback_meaning
+How do i understand the feedback please,feedback_meaning
+Start a new game please,restart_game
+Explain the black and white pegs,feedback_meaning
+Goodbye please,quit_game
+I want to play again,restart_game
+Can two positions have the same color please,color_repeat
+Is color repetition allowed,color_repeat
+What is a black peg please,feedback_meaning
+I want to play again,restart_game
+Quit game please,quit_game
+What does the feedback mean,feedback_meaning
+Restart the game please,restart_game
+Help me play smarter please,game_strategy
+How do i reduce the number of guesses please,game_strategy
+What is a white peg please,feedback_meaning
+What’s a smart way to guess,game_strategy
+Begin a new round please,restart_game
+Is color repetition allowed please,color_repeat
+How do i win please,winning_condition
+Exit,quit_game
+Let's go again,restart_game
+Begin a new round,restart_game
+Restart the game,restart_game
+Exit please,quit_game
+Restart the game please,restart_game
+Let's go again please,restart_game
+Can two positions have the same color,color_repeat
+How do i win,winning_condition
+Goodbye,quit_game
+What’s the best strategy,game_strategy
+Can two positions have the same color please,color_repeat
+Give me tips to play better please,game_strategy
+Help me play smarter please,game_strategy
+Explain the black and white pegs please,feedback_meaning
+Bye please,quit_game
+"Thanks, i’m done",quit_game
+What is the goal please,winning_condition
+What do i need to do to win,winning_condition
+What’s the best strategy please,game_strategy
+Let's go again please,restart_game
+What’s a smart way to guess please,game_strategy
+Help me play smarter please,game_strategy
+Let's go again,restart_game
+"Thanks, i’m done please",quit_game
+How do you win mastermind please,winning_condition
+What is a black peg,feedback_meaning
+Restart the game please,restart_game
+What is a white peg,feedback_meaning
+Can two positions have the same color please,color_repeat
+How many times can i use the same color please,color_repeat
+Give me tips to play better,game_strategy
+How many times can i use the same color,color_repeat
+Let's go again,restart_game
+How many times can i use the same color please,color_repeat
+How do i understand the feedback please,feedback_meaning
+Help me play smarter,game_strategy
+How do i win please,winning_condition
+What does the feedback mean,feedback_meaning
+Goodbye please,quit_game
+How do i reduce the number of guesses please,game_strategy
+What’s a smart way to guess,game_strategy
+How many times can i use the same color,color_repeat
+Can i repeat colors in my guess please,color_repeat
+Help me play smarter please,game_strategy
+How do i reduce the number of guesses,game_strategy
+Let's go again,restart_game
+What is the goal,winning_condition
+Explain the black and white pegs please,feedback_meaning
+How do i understand the feedback please,feedback_meaning
+Start a new game please,restart_game
+Quit game,quit_game
+Let's go again,restart_game
+How do you win mastermind,winning_condition
+What is a black peg,feedback_meaning
+What is a white peg,feedback_meaning
+Can two positions have the same color please,color_repeat
+What do i need to do to win please,winning_condition
+I want to play again,restart_game
+What do i need to do to win,winning_condition
+Quit game,quit_game
+How do you win mastermind,winning_condition
+Are repeated colors allowed,color_repeat
+Give me tips to play better,game_strategy
+Restart the game,restart_game
+Exit,quit_game
+Can two positions have the same color,color_repeat
+I want to play again,restart_game
+Goodbye,quit_game
+Are repeated colors allowed please,color_repeat
+What is a black peg,feedback_meaning
+What do i need to do to win please,winning_condition
+Bye,quit_game
+How many times can i use the same color please,color_repeat
+How do i win please,winning_condition
+How do you win mastermind please,winning_condition
+What’s a smart way to guess,game_strategy
+Are repeated colors allowed,color_repeat
+Bye please,quit_game
+Help me play smarter please,game_strategy
+What’s a smart way to guess please,game_strategy
+Begin a new round,restart_game
+What is a white peg,feedback_meaning
+What is a black peg,feedback_meaning
+Quit game,quit_game
+Bye please,quit_game
+Explain the black and white pegs,feedback_meaning
+Bye please,quit_game
+Quit game please,quit_game
+Start a new game,restart_game
+What’s the best strategy please,game_strategy
+Are repeated colors allowed please,color_repeat
+What is a white peg please,feedback_meaning
+How do you win mastermind,winning_condition
+Quit game,quit_game
+What is a white peg,feedback_meaning
+How do i reduce the number of guesses,game_strategy
+Bye,quit_game
+I want to play again,restart_game
+I want to play again,restart_game
+Let's go again,restart_game
+Are repeated colors allowed please,color_repeat
+Can i repeat colors in my guess please,color_repeat
+"Thanks, i’m done",quit_game
+Give me tips to play better,game_strategy
+Can two positions have the same color please,color_repeat
+Is color repetition allowed,color_repeat
+Begin a new round please,restart_game
+Is color repetition allowed,color_repeat
+Restart the game,restart_game
+Explain the black and white pegs please,feedback_meaning
+Let's go again,restart_game
+What’s a smart way to guess,game_strategy
+Explain the black and white pegs please,feedback_meaning
+Can i repeat colors in my guess please,color_repeat
+Begin a new round,restart_game
+What is a black peg please,feedback_meaning
+Can two positions have the same color please,color_repeat
+Is color repetition allowed,color_repeat
+How many times can i use the same color please,color_repeat
+Restart the game please,restart_game
+How many times can i use the same color please,color_repeat
+Begin a new round please,restart_game
+Can two positions have the same color please,color_repeat
+Start a new game please,restart_game
+Let's go again,restart_game
+Can two positions have the same color,color_repeat
+Begin a new round please,restart_game
+What’s a smart way to guess,game_strategy
+What is a black peg,feedback_meaning
+How do i reduce the number of guesses please,game_strategy
+How do i reduce the number of guesses,game_strategy
+Explain the black and white pegs,feedback_meaning
+Explain how winning works,winning_condition
+Let's go again,restart_game
+Bye,quit_game
+How do i win please,winning_condition
+What is the goal please,winning_condition
+Explain the black and white pegs please,feedback_meaning
+Explain the black and white pegs,feedback_meaning
+What does the feedback mean,feedback_meaning
+What is the goal,winning_condition
+Bye,quit_game
+Goodbye,quit_game
+Exit please,quit_game
+What’s the best strategy please,game_strategy
+Quit game please,quit_game
+Restart the game please,restart_game
+Restart the game please,restart_game
+Help me play smarter please,game_strategy
+How do i reduce the number of guesses please,game_strategy
+I want to play again please,restart_game
+What’s the best strategy please,game_strategy
+Begin a new round,restart_game
+Can two positions have the same color,color_repeat
+How do i reduce the number of guesses please,game_strategy
+Help me play smarter please,game_strategy
+Goodbye,quit_game
+What does the feedback mean please,feedback_meaning
+What’s the best strategy,game_strategy
+Give me tips to play better please,game_strategy
+Bye please,quit_game
+Can i repeat colors in my guess,color_repeat
+Explain the black and white pegs,feedback_meaning
+Explain how winning works,winning_condition
+Goodbye please,quit_game
+How do i reduce the number of guesses,game_strategy
+How do i win,winning_condition
+How many times can i use the same color,color_repeat
+Quit game please,quit_game
+Exit please,quit_game
+Goodbye,quit_game
+What does the feedback mean,feedback_meaning
+Explain the black and white pegs please,feedback_meaning
+Let's go again,restart_game
+How do i understand the feedback,feedback_meaning
+How do you win mastermind,winning_condition
+What’s a smart way to guess,game_strategy
+Can i repeat colors in my guess,color_repeat
+Explain how winning works,winning_condition
+Is color repetition allowed please,color_repeat
+Can i repeat colors in my guess,color_repeat
+Is color repetition allowed,color_repeat
+How do i reduce the number of guesses,game_strategy
+"Thanks, i’m done please",quit_game
+How do i win,winning_condition
+How do you win mastermind,winning_condition
+Let's go again please,restart_game
+Restart the game,restart_game
+What is a black peg please,feedback_meaning
+What’s a smart way to guess please,game_strategy
+"Thanks, i’m done please",quit_game
+"Thanks, i’m done",quit_game
+Quit game,quit_game
+Help me play smarter please,game_strategy
+Is color repetition allowed please,color_repeat
+Can two positions have the same color please,color_repeat
+Can two positions have the same color please,color_repeat
+Let's go again,restart_game
+Restart the game please,restart_game
+"Thanks, i’m done please",quit_game
+Is color repetition allowed,color_repeat
+How do i reduce the number of guesses please,game_strategy
+What is a black peg please,feedback_meaning
+What’s the best strategy,game_strategy
+Quit game,quit_game
+How do i reduce the number of guesses,game_strategy
+I want to play again,restart_game
+Let's go again,restart_game
+What is a white peg please,feedback_meaning
+Give me tips to play better please,game_strategy
+How do i understand the feedback,feedback_meaning
+Can two positions have the same color please,color_repeat
+How do you win mastermind,winning_condition
+Explain how winning works please,winning_condition
+Give me tips to play better,game_strategy
+Quit game please,quit_game
+Explain how winning works,winning_condition
+What is the goal please,winning_condition
+Bye,quit_game
+"Thanks, i’m done",quit_game
+What is a white peg,feedback_meaning
+How many times can i use the same color,color_repeat
+Help me play smarter,game_strategy
+How do i win,winning_condition
+How do i win,winning_condition
+What’s the best strategy please,game_strategy
+How do i reduce the number of guesses,game_strategy
+What is the goal,winning_condition
+How many times can i use the same color,color_repeat
+Can i repeat colors in my guess,color_repeat
+Bye,quit_game
+Are repeated colors allowed please,color_repeat
+Explain the black and white pegs,feedback_meaning
+What is the goal please,winning_condition
+What is a white peg,feedback_meaning
+What do i need to do to win,winning_condition
+Help me play smarter please,game_strategy
+What’s the best strategy,game_strategy
+How do i understand the feedback please,feedback_meaning
+Start a new game please,restart_game
+I want to play again please,restart_game
+How do i reduce the number of guesses,game_strategy
+Begin a new round,restart_game
+Is color repetition allowed please,color_repeat
+Goodbye please,quit_game
+Quit game,quit_game
+Goodbye,quit_game
+What’s a smart way to guess,game_strategy
+How do i understand the feedback,feedback_meaning
+Can i repeat colors in my guess please,color_repeat
+What’s the best strategy please,game_strategy
+Explain the black and white pegs please,feedback_meaning
+Are repeated colors allowed,color_repeat
+Quit game,quit_game
+Quit game please,quit_game
+Goodbye,quit_game
+How do you win mastermind please,winning_condition
+What is a white peg please,feedback_meaning
+Are repeated colors allowed please,color_repeat
+Let's go again,restart_game
+What’s a smart way to guess please,game_strategy
+Exit,quit_game
+What is a black peg please,feedback_meaning
+What’s a smart way to guess,game_strategy
+What’s a smart way to guess please,game_strategy
+Help me play smarter,game_strategy
+Goodbye,quit_game
+Quit game,quit_game
+Can i repeat colors in my guess please,color_repeat
+Let's go again please,restart_game
+Explain the black and white pegs please,feedback_meaning
+What is a black peg,feedback_meaning
+Quit game please,quit_game
+Quit game please,quit_game
+Can two positions have the same color please,color_repeat
+What is a white peg please,feedback_meaning
+How many times can i use the same color,color_repeat
+Let's go again,restart_game
+I want to play again please,restart_game
+Bye,quit_game
+Start a new game please,restart_game
+What’s a smart way to guess,game_strategy
+Can two positions have the same color please,color_repeat
+Help me play smarter please,game_strategy
+Start a new game please,restart_game
+What’s a smart way to guess,game_strategy
+Give me tips to play better please,game_strategy
